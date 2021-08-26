@@ -1,0 +1,1 @@
+"E:\JavaJava\bin\javac" Proiect.java>errorcomp.txt 2>&1
